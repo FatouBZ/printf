@@ -18,6 +18,6 @@ int printf_srev(va_list args)
 	while (s[n] != '\0')
 		n++;
 	for (m = n - 1; m >= 0; m--)
-		_putchar(s[i]);
+		_putchar(s[m]);
 	return (n);
 }

@@ -1,5 +1,4 @@
 #include "main.h"
-<<<<<<< HEAD
 
 /**
  * printf_HEX_aux - prints an hexadecimal number.
@@ -66,5 +65,4 @@ _putchar(array[i] + '0');
 }
 free(array);
 return (counter);
->>>>>>> 89c1c635c6abe880277a739ade59ceeabde48c0c
 }
